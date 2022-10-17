@@ -1,4 +1,7 @@
-# get-started-react-native-maplibre-gl-js
+# Get started with React Native and MapLibre GL JS
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Quick way to star a native map application with MapLibre GL JS using React Native.
 
 A simple fullscreen map application as an example on how to use MapTiler maps together with React Native and MapLibre GL JS for your own native app.
