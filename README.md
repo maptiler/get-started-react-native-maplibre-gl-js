@@ -47,3 +47,10 @@ This app is made with [expo-dev-client](https://docs.expo.dev/development/gettin
 * [Expo Development builds](https://docs.expo.dev/development/getting-started/#installing--expo-dev-client--in-your-project)
 * [Adding custom native code](https://docs.expo.dev/workflow/customizing/#generate-native-projects-with-prebuild)
 * [rnmapbox documentation](https://github.com/rnmapbox/maps)
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
