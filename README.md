@@ -8,7 +8,7 @@ This app is made with [expo-dev-client](https://docs.expo.dev/development/gettin
 
 1. Clone this repo
   ```sh
-    git clone https://github.com/maptiler/get-started-react-maplibre-gl-js.git my-react-map
+    git clone https://github.com/maptiler/get-started-react-native-maplibre-gl-js.git my-react-map
   ```
 
 2. Navigate to the newly created project folder **my-react-map**
