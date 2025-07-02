@@ -2,12 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Quick way to star a native map application with MapLibre GL JS using React Native.
+Quick way to start a native map application with MapLibre GL JS using React Native.
 
-A simple fullscreen map application as an example on how to use MapTiler maps together with React Native and MapLibre GL JS for your own native app.
+A simple fullscreen map application as an example on how to use MapTiler maps together with React Native and MapLibre GL JS for your native app.
 
 This app is made with [expo-dev-client](https://docs.expo.dev/development/getting-started/#installing--expo-dev-client--in-your-project) along with the plugin
-[rnmapbox](https://github.com/rnmapbox/maps/blob/main/plugin/install.md).
+[MapLibre React Native](https://maplibre.org/maplibre-react-native/).
 
 1. Clone this repo
   ```sh
@@ -46,7 +46,7 @@ This app is made with [expo-dev-client](https://docs.expo.dev/development/gettin
 
 * [Expo Development builds](https://docs.expo.dev/development/getting-started/#installing--expo-dev-client--in-your-project)
 * [Adding custom native code](https://docs.expo.dev/workflow/customizing/#generate-native-projects-with-prebuild)
-* [rnmapbox documentation](https://github.com/rnmapbox/maps)
+* [MapLibre React Native documentation](https://maplibre.org/maplibre-react-native/docs/setup/getting-started)
 
 <!-- LICENSE -->
 ## License
